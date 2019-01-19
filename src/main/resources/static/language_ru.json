@@ -1,0 +1,8 @@
+{
+  "sessionExpired":"Сессия истекла.",
+  "wrongLoginOrPassword":"Не верный логин или пароль.",
+  "successfullyAdded":"Успешно добавлено.",
+  "successfullyEdited":"Успешно отредактирован.",
+  "successfullyDeleted":"Удалено успешно.",
+  "permissionDenied":"Доступ запрещен."
+}

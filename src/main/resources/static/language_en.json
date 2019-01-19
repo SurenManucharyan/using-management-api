@@ -1,0 +1,11 @@
+{
+  "sessionExpired":"Session expired.",
+  "wrongLoginOrPassword":"Wrong login or password.",
+  "successfullyAdded":"Successfully added.",
+  "successfullyEdited":"Successfully edited.",
+  "successfullyDeleted":"Successfully deleted.",
+  "permissionDenied":"Permission denied."
+
+
+
+}

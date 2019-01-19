@@ -1,0 +1,6 @@
+{
+  "success":"success",
+  "sessionExpired":"sessionExpired",
+  "permissionDenied":"permissionDenied",
+  "wrongLoginOrPassword":"WrongLoginOrPassword"
+}

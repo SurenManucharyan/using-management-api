@@ -1,0 +1,8 @@
+{
+  "sessionExpired":"Սեսիան ավարտված է։",
+  "wrongLoginOrPassword":"Սխալ մուտքանուն կամ գաղտնաբառ:",
+  "successfullyAdded":"Հաջողությամբ ավելացվել է:",
+  "successfullyEdited":"Հաջողությամբ խմբագրվել է:",
+  "successfullyDeleted":"Հաջողությամբ ջնջվել է:",
+  "permissionDenied":"Չթույլատрված գործողություն!:"
+}
